@@ -6,7 +6,7 @@
 * [picoCTF](https://picoctf.org/)
 * [yeswehack](https://www.yeswehack.com/)
 
-# tools
+# Tools
 
 * [blackArch](https://www.blackarch.org/tools.html)
 * [keepass](https://keepassxc.org/)
