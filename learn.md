@@ -7,3 +7,9 @@
 * [NandToTetris](https://www.nand2tetris.org/course)
 * [Regexcrossword](https://regexcrossword.com/)
 * [tosdr](https://tosdr.org/) check the terms of services
+* [learngitbranching](https://learngitbranching.js.org)
+
+# Platform
+
+* https://framagit.org/parcoursup/algorithmes-de-parcoursup
+* https://www.whizlabs.com/ : AWS Certified Solutions Architect Associate Exam
