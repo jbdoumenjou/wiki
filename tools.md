@@ -23,3 +23,11 @@
 * https://app.grammarly.com/
 * https://www.deepl.com
 
+# Mails
+
+* https://app.simplelogin.io
+
+
+# Tech World stats
+
+* https://layoffs.fyi/

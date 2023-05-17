@@ -17,4 +17,4 @@
 * [bitwarden](https://bitwarden.com/)
 * [showdan search engine](https://www.shodan.io/)
 * [syncthing p2p encrypted storage](https://syncthing.net/)
-* [Web PAge Test](https://github.com/WPO-Foundation/webpagetest/)
+* [Web Page Test](https://github.com/WPO-Foundation/webpagetest/)

@@ -13,3 +13,11 @@
 
 * https://framagit.org/parcoursup/algorithmes-de-parcoursup
 * https://www.whizlabs.com/ : AWS Certified Solutions Architect Associate Exam
+* https://www.codingame.com
+* https://exercism.org
+* https://codecombat.com/
+* https://leetcode.com/
+
+# Language
+
+* [english<->french](https://bitoduc.fr)

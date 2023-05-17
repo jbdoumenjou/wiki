@@ -7,6 +7,7 @@
 * [k3d](https://k3d.io/v5.0.0/)
 * [k3s](https://k3s.io/)
 * [kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
+* [stern](https://github.com/stern/stern)
 
 # Commands and experimentation
 
