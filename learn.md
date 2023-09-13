@@ -17,7 +17,10 @@
 * https://exercism.org
 * https://codecombat.com/
 * https://leetcode.com/
+* https://powerz.tech/
 
 # Language
 
 * [english<->french](https://bitoduc.fr)
+* https://www.efset.org/
+* https://www.goethe.de/en/

@@ -1,3 +1,18 @@
+# Database
+
+* https://dbdiagram.io
+* https://dbeaver.io/
+* https://www.jetbrains.com/help/go/managing-data-sources.html
+* https://sqlc.dev/
+
+# CMS
+
+* https://gohugo.io/
+
+# CRM
+
+*  ERPNext fork https://doc.dokos.io
+
 # Dev
 
 * Manipulate your jwt https://jwt.io/
@@ -9,13 +24,10 @@
 * [vscodethemes](https://vscodethemes.com/) - VSCode themes
 * [responsively](https://responsively.app/) - plugin/browser to help responsive development
 
-# CRM
+# Github
 
-*  ERPNext fork https://doc.dokos.io
-
-# CMS
-
-* https://gohugo.io/
+* https://github.com/anuraghazra/github-readme-stats
+* https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/
 
 # Language
 
@@ -26,7 +38,6 @@
 # Mails
 
 * https://app.simplelogin.io
-
 
 # Tech World stats
 
