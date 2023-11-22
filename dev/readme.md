@@ -27,7 +27,7 @@ Can you write a complete book on how to learn ?
 
 * The Go Programming Language
 * Designing Data-Intensive Application
-* The ARt of Doing Science and Engineering
+* The Art of Doing Science and Engineering
 * Agile Software development
 * Just Enough architecture
 * Clean Code

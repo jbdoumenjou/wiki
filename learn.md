@@ -1,3 +1,8 @@
+# Language
+
+* [english<->french](https://bitoduc.fr)
+* https://www.efset.org/
+* https://www.goethe.de/en/
 
 # Tools
 
@@ -11,16 +16,15 @@
 
 # Platform
 
+* https://www.boot.dev/
+* https://codecombat.com/
 * https://framagit.org/parcoursup/algorithmes-de-parcoursup
-* https://www.whizlabs.com/ : AWS Certified Solutions Architect Associate Exam
 * https://www.codingame.com
 * https://exercism.org
-* https://codecombat.com/
 * https://leetcode.com/
 * https://powerz.tech/
+* https://www.whizlabs.com/ : AWS Certified Solutions Architect Associate Exam
 
-# Language
+# Bookshops
 
-* [english<->french](https://bitoduc.fr)
-* https://www.efset.org/
-* https://www.goethe.de/en/
+* https://leanpub.com/

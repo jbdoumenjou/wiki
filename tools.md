@@ -22,8 +22,15 @@ tailwindcss
 
 # Dev
 
+* [json to go](https://mholt.github.io/json-to-go/)
+* [json lint](https://jsonlint.com/)
 * Manipulate your jwt https://jwt.io/
 * https://regex101.com/
+
+
+# Flights
+
+* https://www.flightradar24.com
 
 # Front
 
