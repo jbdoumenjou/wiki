@@ -1,3 +1,8 @@
+
+# PostgreSQL
+
+## Use Docker to run PostgreSQL
+
 ```bash
 docker run --name pg-test \                                                                                                ✔ 
   -e POSTGRES_PASSWORD=secret \
@@ -68,4 +73,18 @@ people=> \d+ users
 Access method: heap
 
 
+```
+
+## Install psql
+
+Under manjaro, you can install psql with the following command:
+
+```bash
+sudo pacman -S postgresql
+```
+
+The client is installed with the server. You can check the version with the following command:
+
+```bash
+psql --version
 ```
