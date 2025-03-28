@@ -13,6 +13,7 @@
 * [Regexcrossword](https://regexcrossword.com/)
 * [tosdr](https://tosdr.org/) check the terms of services
 * [learngitbranching](https://learngitbranching.js.org)
+* [typing](https://www.keybr.com/)
 
 # Platform
 
