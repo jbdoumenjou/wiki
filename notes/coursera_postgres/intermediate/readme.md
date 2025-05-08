@@ -94,10 +94,10 @@ COMMIT;
 
 ## What **is** a stored procedure?
 
-* Introduced in PostgreSQL 11, created with **`CREATE PROCEDURE`** and invoked by **`CALL …`**.:contentReference[oaicite:0]{index=0}
+* Introduced in PostgreSQL 11, created with **`CREATE PROCEDURE`** and invoked by **`CALL …`**
 * Key differences from functions:
-    * **No `RETURNS` clause** – return data with `OUT` / `INOUT` parameters or cursors instead.:contentReference[oaicite:1]{index=1}
-    * **Full transaction control**: `COMMIT`, `ROLLBACK`, savepoints are allowed inside the body (functions cannot).:contentReference[oaicite:2]{index=2}
+    * **No `RETURNS` clause** – return data with `OUT` / `INOUT` parameters or cursors instead.
+    * **Full transaction control**: `COMMIT`, `ROLLBACK`, savepoints are allowed inside the body (functions cannot).
     * Can’t be used inside a `SELECT`, `WHERE`, etc.—only executed via `CALL`.
 
 ---
@@ -133,12 +133,12 @@ $$;
 
 ## When to use procedures (👍)
 
-| Scenario                                                  | Why a procedure fits                                                   |
-|-----------------------------------------------------------|------------------------------------------------------------------------|
-| Batch / ETL jobs that process millions of rows            | Periodic COMMIT avoids giant transactions.                             |
-| Maintenance utilities (partition rotation, index rebuild) | Need to drop/recreate objects with transaction breaks.                 |
-| Idempotent deployment scripts                             | One CALL run by CI pipeline keeps logic close to data.                 |
-| Drivers expecting SQL-standard CALL                       | JDBC/ODBC CallableStatement works out-of-the-box.(jdbc.postgresql.org) |
+| Scenario                                                  | Why a procedure fits                                                       |
+|-----------------------------------------------------------|----------------------------------------------------------------------------|
+| Batch / ETL jobs that process millions of rows            | Periodic COMMIT avoids giant transactions.                                 |
+| Maintenance utilities (partition rotation, index rebuild) | Need to drop/recreate objects with transaction breaks.                     |
+| Idempotent deployment scripts                             | One CALL run by CI pipeline keeps logic close to data.                     |
+| Drivers expecting SQL-standard CALL                       | JDBC/ODBC [CallableStatement](https://jdbc.postgresql.org/documentation/callproc/) works out-of-the-box.(jdbc.postgresql.org) |
 
 ## What to avoid (👎)
 
